@@ -70,6 +70,10 @@
   box-sizing: border-box;
 }
 
+.skewImg {
+  height: 99% !important;
+}
+
 .img-fluid2 {
   height: 400px;
 }
