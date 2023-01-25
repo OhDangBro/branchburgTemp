@@ -65,7 +65,11 @@
 }
 
 .dailySpecials {
-  color: rgba(255, 255, 255, 0.75) !important;;
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+a.dailySpecials {
+  color: rgba(255, 255, 255, 0.75) !important;
 }
 
 *,
