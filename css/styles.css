@@ -66,15 +66,15 @@
 
 
 .heroIcon {
-  height: 400px;
-  width: 400px;
+  height: 400px !important;
+  width: 400px !important;
 }
 
 
 @media (max-width: 800px) {
   .heroIcon {
-    height: 250px;
-    width: 250px;
+    height: 250px !important;
+    width: 250px !important;
   }
 }
 
