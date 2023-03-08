@@ -64,6 +64,20 @@
   --bs-body-bg: #fff;
 }
 
+
+.heroIcon {
+  height: 400px;
+  width: 400px;
+}
+
+
+@media (max-width: 800px) {
+  .heroIcon {
+    height: 250px;
+    width: 250px;
+  }
+}
+
 .popup {
   display: none;
   position: fixed;
